@@ -50,9 +50,9 @@
     "addBookmark": "Yer imlerine Ekle",
     "searchBookmarks": "Yer imlerini ara",
     "bookmarksAddTag": "Etiket Ekle",
-    "bookmarksRenameTag": null, //missing translation
-    "bookmarksDeleteTag": null, //missing translation
-    "deleteBookmarksWithTag": null, //missing translation
+    "bookmarksRenameTag": "Etiketi yeniden adlandır",
+    "bookmarksDeleteTag": "Etiketi kaldır",
+    "deleteBookmarksWithTag": "Etiketli yer imlerini kaldır",
     "bookmarksSimilarItems": "Benzer Olanlar",
     "searchHistory": "Arama Geçmişi",
     "importBookmarks": "Yer imlerini HTML dosyasından içe aktar",
@@ -168,6 +168,10 @@
     "settingsUsageStatisticsToggle": {
       "unsafeHTML": "Kullanım Bilgilerini Gönder (<a href=\"https://github.com/minbrowser/min/blob/master/docs/statistics.md\">Daha Fazla Bilgi</a>)"
     },
+    "settingsStartupOptions": null, //missing translation
+    "settingsStartupCreateTask": null, //missing translation
+    "settingsStartupNewTaskandBackground": null, //missing translation
+    "settingsStartupNewTaskOnly": null, //missing translation
     "settingsSearchEngineHeading": "Arama Motoru",
     "settingsDefaultSearchEngine": "Bir varsayılan arama motoru seçin:",
     "settingsDDGExplanation": "Arama çubuğundaki anlık yanıtları görmek için DuckDuckGo’yu varsayılan arama motoru olarak ayarlayın.",
